@@ -5,4 +5,7 @@ This document serves as a learning repository to document my learning progress o
 
 
 ## Machine Learning Process
-[Basic process flow of Machine Learning]()
+![Basic process flow of Machine Learning](https://github.com/CalvinLoke/MLWithPython/blob/main/Media/ML-Process-Flow.png)
+
+
+
